@@ -1,5 +1,5 @@
 [package]
-name = "sandbox"
+name = "rust-sandbox"
 version = "0.1.0"
 authors = ["Ryan Shaw-Harrison <srazash@protonmail.com>"]
 edition = "2018"
